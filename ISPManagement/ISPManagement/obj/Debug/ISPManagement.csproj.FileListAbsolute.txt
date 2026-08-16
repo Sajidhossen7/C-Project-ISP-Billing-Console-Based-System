@@ -1,0 +1,12 @@
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\bin\Debug\ISPManagement.exe.config
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\bin\Debug\ISPManagement.exe
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\bin\Debug\ISPManagement.pdb
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\bin\Debug\Guna.UI2.dll
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\obj\Debug\ISPManagement.csproj.AssemblyReference.cache
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\obj\Debug\ISPManagement.FormLogin.resources
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\obj\Debug\ISPManagement.Properties.Resources.resources
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\obj\Debug\ISPManagement.csproj.GenerateResource.cache
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\obj\Debug\ISPManagement.csproj.CoreCompileInputs.cache
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\obj\Debug\ISPManag.9FA380B2.Up2Date
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\obj\Debug\ISPManagement.exe
+E:\Github\C# Project ISP Billing Console Based System\ISPManagement\ISPManagement\obj\Debug\ISPManagement.pdb
